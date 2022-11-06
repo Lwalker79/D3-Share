@@ -1,0 +1,29 @@
+.NavBar{
+    background-color: rgb(109, 109, 109);
+    width: page;
+    height: 40px;
+    text-align: center;
+    font-family: 'Bungee', cursive;}
+a:link{
+    color: aliceblue;
+    text-decoration: none;}
+a:visited{
+    color: aliceblue;
+    text-decoration: none;}
+a:hover{
+    color: rgb(255, 0, 0);}
+.Contact{
+    font-family:'Ubuntu', sans-serif;
+    float: right;}
+.mainname{
+    text-align: center;
+   font-family: 'Bungee', cursive;;
+font-size: 30px;
+display:inline;}
+h2{
+text-align: center;
+font-family: 'Bungee', cursive;}
+.gallery{
+text-align: center;
+}
+
